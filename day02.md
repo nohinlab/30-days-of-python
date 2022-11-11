@@ -1,20 +1,20 @@
 <div align="center">
-  <h1>Day 1</h1>
+  <h1>Day 2</h1>
 
   <sub>
     Author: <a href="https://github.com/nohinlab" target="_blank">Nohin</a>
     <br>
-    <small>Nov 8, 2022 - Tuesday</small>
+    <small>Nov 9, 2022 - Wednesday</small>
   </sub>
 </div>
 
-[<< Round 1](README.md) | [Day 2 >>](day02.md)
+[<< Day 1](day01.md) | [Day 3 >>](day03.md)
 
 ### My Progress :
-* 8/56 Videos from 
+* 11/56 Videos from 
 
 ### Notes :
-
+* No notes today
 ### Codes :
 * No codes today
 
