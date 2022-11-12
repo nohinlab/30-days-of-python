@@ -10,13 +10,13 @@
 
 [<< Round 1](README.md) | [Day 2 >>](day02.md)
 
-### My Progress :
+## My Progress :
 * 8/56 Videos from 
 
-### Notes :
+## Notes :
 
-### Codes :
+## Codes :
 * No codes today
 
-### Resources :
+## Resources :
 * <a href="https://www.freecodecamp.org/learn/scientific-computing-with-python/#python-for-everybody" target="_blank">Scientific computing with python by freecodecamp</a>
