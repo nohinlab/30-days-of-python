@@ -52,15 +52,11 @@
 
     > Similar to methods, we can also define initializers with optional parameters. In this case it's important to define the default values for the parameters.
 
-* Class and Instance Variables
-
-
 
 ### Codes :
 * No codes today
 
 ### Resources :
-* <a href="https://www.freecodecamp.org/learn/scientific-computing-with-python/#python-for-everybody" target="_blank">Scientific computing with python by freecodecamp</a>
 * <a href="https://www.educative.io" target="_blank">Educative Learn Object-Oriented Programming in Python</a>
 
 
