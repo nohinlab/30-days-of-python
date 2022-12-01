@@ -8,7 +8,7 @@
   </sub>
 </div>
 
-[<< Day4 1](day04.md) | [Day 6 >>](day06.md)
+[<< Day 4](day04.md) | [Day 6 >>](day06.md)
 
 ## My Progress :
 * Chapter 6 - 16/56 Videos

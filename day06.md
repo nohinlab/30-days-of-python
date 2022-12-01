@@ -4,11 +4,11 @@
   <sub>
     Author: <a href="https://github.com/nohinlab" target="_blank">Nohin</a>
     <br>
-    <small>Nov 12, 2022 - Saturday</small>
+    <small>Nov 13, 2022 - Sunday</small>
   </sub>
 </div>
 
-[<< Day5 1](day05.md) | [Day 6 >>](day07.md)
+[<< Day 5](day05.md) | [Day 7 >>](day07.md)
 
 ## My Progress :
 * Chapter 9 - 24/56 Videos
